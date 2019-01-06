@@ -1,4 +1,4 @@
-# find-and-shoot-ball
+# find-and-hit-ball
 LEGO NXT Robot 
 
   Robot starts from a random position and starts to search a ball on pitch. If the robot encountered a wall or robot (sensing with light
@@ -8,7 +8,7 @@ like right or left side. If the robot finds a ball
 (ultrasonic sensor sensing a movement) closes a grab
 and catch the ball. After that, the robot moves with
 ball 20 cm and open grabs, rotates 360 degree in
-one's tracks and throws the ball and goes on to
+one's tracks and hits to ball and goes on to
 searching ball.
 
   While turning, it provides this with wheel
